@@ -18,7 +18,8 @@ body{
 	font-size: 20px;
 }
 .img-circle {
-	border-radius: 50%;
+	width: 70%;
+	height: auto;
 }
 .noSalto{
 	white-space:nowrap;
@@ -27,7 +28,7 @@ body{
 	text-align: justify;
 }
 nav ul li.active {
-  background-color: rgba(165, 203, 217, 1)
+  background-color: rgba(0, 230, 118, .6)
 }
 
 hr.difuminada { 
@@ -45,4 +46,24 @@ hr.difuminada {
 }
 .ariba{
 	margin-top: 100px;
+}
+.centro{
+	margin-top: 100px;
+}
+.centrar{
+	text-align: center;
+}
+.img-s{
+	margin-top: 20px;
+	width: 40%;
+	height: auto;
+}
+.isDisabled {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+}
+.redes{
+	margin-top: 190px;
 }
