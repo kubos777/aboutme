@@ -59,7 +59,7 @@ const Portfolio: React.FC = () => {
     ]
   };
 
-  const projects: Project[] = [
+/*  const projects: Project[] = [
     {
       title: 'Personal Software Project',
       description: 'Innovative software solutions using modern technologies',
@@ -73,7 +73,7 @@ const Portfolio: React.FC = () => {
       image: '🎵'
     }
   ];
-
+*/
   const NavButton: React.FC<NavButtonProps> = ({ section, children, onClick }) => (
     <button
       onClick={onClick}
