@@ -8,12 +8,13 @@ interface Skill {
   items: string[];
 }
 
-interface Project {
+/*interface Project {
   title: string;
   description: string;
   tech: string[];
   image: string;
 }
+*/
 
 interface NavButtonProps {
   section: Section;
