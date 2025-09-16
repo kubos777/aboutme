@@ -140,7 +140,7 @@ const Portfolio: React.FC = () => {
             <div className="w-80 h-80 mx-auto rounded-2xl bg-gradient-to-br from-emerald-400 to-teal-600 p-1 animate-pulse">
               <div className="w-full h-full rounded-2xl bg-gray-900 overflow-hidden">
                 <img 
-                  src="/src/assets/me.png" 
+                  src="/aboutme/me.png" 
                   alt="Jorge Chávez" 
                   className="w-full h-full object-contain scale-100"
                 />
@@ -239,7 +239,7 @@ const Portfolio: React.FC = () => {
                 <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-br from-emerald-400 to-teal-600 p-1 mb-4">
                   <div className="w-full h-full rounded-full bg-white overflow-hidden relative">
                     <img 
-                      src="/src/assets/meprofile.png" 
+                      src="/aboutme/meprofile.png" 
                       alt="yoreal" 
                       className="w-full h-full object-contain rounded-full"
                     />
