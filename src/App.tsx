@@ -179,7 +179,7 @@ const Portfolio: React.FC = () => {
                 Background
               </h3>
               <p className="text-gray-300 leading-relaxed text-lg">
-              Born in Morelos, Mexico, and currently living in Mexico City, Iztapalapa district. Over the years, I have cultivated a strong passion for technology, which led me to pursue a degree in Computer Engineering at the National Autonomous University of Mexico (UNAM). Since then, I have specialized in modern web development—both backend and frontend—as well as in designing cloud-oriented solutions.
+              Born in Morelos, Mexico, and now based in the Iztapalapa borough of Mexico City, I have cultivated a deep passion for technology. This passion drove me to earn a degree in Computer Engineering from the National Autonomous University of Mexico (UNAM). Since then, I have specialized in modern web development—covering both backend and frontend—and in designing scalable, cloud-oriented solutions.
               </p>
             </div>
             
@@ -203,7 +203,7 @@ const Portfolio: React.FC = () => {
                 Professional Growth
               </h3>
               <p className="text-gray-300 leading-relaxed text-lg">
-              During my time at university, I was part of PROTECO (Computer Technology Program), which helped me establish myself as a full-stack developer. Over the years, the projects I have worked on have continuously expanded my experience in cloud technologies, modern frameworks, and scalable system design. My career reflects a strong commitment to staying at the forefront of technology and delivering tailored solutions that drive the growth of the companies and projects I collaborate with.
+              My journey into full-stack development began at university as part of the PROTECO (Computer Technology Program), where I honed my skills. Since then, I've leveraged diverse project experience to continuously expand my expertise in cloud technologies, modern frameworks, and scalable system design. My career reflects a strong commitment to staying at the forefront of technology and delivering tailored solutions that fuel the growth of the companies and projects I work with.
               </p>
             </div>
             
